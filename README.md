@@ -26,13 +26,13 @@ https://hub.docker.com/r/samcoakley/commentsservice
 
 # Files included
 
-app.py # Main Flask application
-requirements.txt # Python dependencies
-Dockerfile # Docker build config
-README.md # Project documentation
+-app.py # Main Flask application
+-requirements.txt # Python dependencies
+-Dockerfile # Docker build config
+-README.md # Project documentation
 
 
-Author
+# Author
 S. Coakley
 University of Plymouth – BSc (Hons) Computer Science
 COMP2001 – Web Services and Systems Integration
