@@ -35,4 +35,4 @@ https://hub.docker.com/r/samcoakley/commentsservice
 # Author
 S. Coakley
 University of Plymouth – BSc (Hons) Computer Science
-COMP2001 – Web Services and Systems Integration
+COMP2001 
